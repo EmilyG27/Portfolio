@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    font-size: 35px;
+    margin-left: 20%;
+}
+
+#about {
+    display: inline-block;
+    position:absolute; 
+    margin: 20% 50%;   
+}
+
+p {
+    width: 500px;
+}
+
+nav {
+    text-align: center;
+    font-size: 20px;
+}
+
+nav .button {
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    position: sticky;
+    margin: 10px 0;
+    
+}
+
+img {
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+}

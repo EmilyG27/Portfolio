@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    position: sticky;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+div a {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: purple;
+}
